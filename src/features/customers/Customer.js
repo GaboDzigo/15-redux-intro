@@ -5,7 +5,7 @@ function Customer() {
 
   console.log(customer);
 
-  return <h2>👋 Welcome, {customer}⭐</h2>;
+  return <h2>👋 Welcome, {customer}</h2>;
 }
 
 export default Customer;
